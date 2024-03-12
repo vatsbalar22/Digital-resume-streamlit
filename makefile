@@ -7,4 +7,4 @@ lint:
 run: 
 	python app.py 
 		streamlit run app.py
-		
+all: install run		
